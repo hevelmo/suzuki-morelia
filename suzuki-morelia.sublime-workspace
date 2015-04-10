@@ -718,12 +718,825 @@
 				"buffer_size": 191036,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/sx4-sedan.html",
+			"settings":
+			{
+				"buffer_size": 191050,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/sx4-crossover.html",
+			"settings":
+			{
+				"buffer_size": 135862,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/swift.html",
+			"settings":
+			{
+				"buffer_size": 153784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/swift-sport.html",
+			"settings":
+			{
+				"buffer_size": 126597,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/s-cross.html",
+			"settings":
+			{
+				"buffer_size": 177829,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/promociones.html",
+			"settings":
+			{
+				"buffer_size": 30220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/mustache.html",
+			"settings":
+			{
+				"buffer_size": 22853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/legales.html",
+			"settings":
+			{
+				"buffer_size": 23737,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/kizashi.html",
+			"settings":
+			{
+				"buffer_size": 158582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/index.html",
+			"settings":
+			{
+				"buffer_size": 33483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/grand-vitara.html",
+			"settings":
+			{
+				"buffer_size": 166127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/contacto.html",
+			"settings":
+			{
+				"buffer_size": 35466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias.html",
+			"settings":
+			{
+				"buffer_size": 41837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/ciaz.html",
+			"settings":
+			{
+				"buffer_size": 96518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/catalogo.html",
+			"settings":
+			{
+				"buffer_size": 33675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/aviso-privacidad.html",
+			"settings":
+			{
+				"buffer_size": 30154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/razones/index.html",
+			"settings":
+			{
+				"buffer_size": 30811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/grupo/index.html",
+			"settings":
+			{
+				"buffer_size": 23839,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/garantia-suzuki/index.html",
+			"settings":
+			{
+				"buffer_size": 40618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/index.html",
+			"settings":
+			{
+				"buffer_size": 42000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-colima.html",
+			"settings":
+			{
+				"buffer_size": 41996,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-lopez-mateos.html",
+			"settings":
+			{
+				"buffer_size": 41999,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-morelia.html",
+			"settings":
+			{
+				"buffer_size": 41986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-vallarta.html",
+			"settings":
+			{
+				"buffer_size": 42000,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/api/index.html",
+			"settings":
+			{
+				"buffer_size": 23247,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/sx4-sedan.html",
+			"settings":
+			{
+				"buffer_size": 191024,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/sx4-crossover.html",
+			"settings":
+			{
+				"buffer_size": 135847,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/swift.html",
+			"settings":
+			{
+				"buffer_size": 153747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/swift-sport.html",
+			"settings":
+			{
+				"buffer_size": 126560,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/s-cross.html",
+			"settings":
+			{
+				"buffer_size": 177792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/promociones.html",
+			"settings":
+			{
+				"buffer_size": 30186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/mustache.html",
+			"settings":
+			{
+				"buffer_size": 22819,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/legales.html",
+			"settings":
+			{
+				"buffer_size": 23699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/kizashi.html",
+			"settings":
+			{
+				"buffer_size": 158545,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/index.html",
+			"settings":
+			{
+				"buffer_size": 33441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/grand-vitara.html",
+			"settings":
+			{
+				"buffer_size": 166082,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/contacto.html",
+			"settings":
+			{
+				"buffer_size": 35416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias.html",
+			"settings":
+			{
+				"buffer_size": 41791,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/ciaz.html",
+			"settings":
+			{
+				"buffer_size": 96479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/catalogo.html",
+			"settings":
+			{
+				"buffer_size": 33637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/aviso-privacidad.html",
+			"settings":
+			{
+				"buffer_size": 30112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/razones/index.html",
+			"settings":
+			{
+				"buffer_size": 30773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/grupo/index.html",
+			"settings":
+			{
+				"buffer_size": 23801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/garantia-suzuki/index.html",
+			"settings":
+			{
+				"buffer_size": 40580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/index.html",
+			"settings":
+			{
+				"buffer_size": 41962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-colima.html",
+			"settings":
+			{
+				"buffer_size": 41958,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-morelia.html",
+			"settings":
+			{
+				"buffer_size": 41948,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-vallarta.html",
+			"settings":
+			{
+				"buffer_size": 41962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/api/index.html",
+			"settings":
+			{
+				"buffer_size": 23206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/sx4-sedan.html",
+			"settings":
+			{
+				"buffer_size": 190203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/sx4-crossover.html",
+			"settings":
+			{
+				"buffer_size": 135015,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/swift.html",
+			"settings":
+			{
+				"buffer_size": 153528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/swift-sport.html",
+			"settings":
+			{
+				"buffer_size": 126341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/s-cross.html",
+			"settings":
+			{
+				"buffer_size": 177573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/promociones.html",
+			"settings":
+			{
+				"buffer_size": 29974,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/mustache.html",
+			"settings":
+			{
+				"buffer_size": 22607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/legales.html",
+			"settings":
+			{
+				"buffer_size": 23487,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/kizashi.html",
+			"settings":
+			{
+				"buffer_size": 158329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/index.html",
+			"settings":
+			{
+				"buffer_size": 33140,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/grand-vitara.html",
+			"settings":
+			{
+				"buffer_size": 165863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/contacto.html",
+			"settings":
+			{
+				"buffer_size": 34252,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias.html",
+			"settings":
+			{
+				"buffer_size": 41579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/ciaz.html",
+			"settings":
+			{
+				"buffer_size": 96266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/catalogo.html",
+			"settings":
+			{
+				"buffer_size": 33425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/aviso-privacidad.html",
+			"settings":
+			{
+				"buffer_size": 29900,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/razones/index.html",
+			"settings":
+			{
+				"buffer_size": 30561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/grupo/index.html",
+			"settings":
+			{
+				"buffer_size": 23589,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/garantia-suzuki/index.html",
+			"settings":
+			{
+				"buffer_size": 40368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/index.html",
+			"settings":
+			{
+				"buffer_size": 41749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-colima.html",
+			"settings":
+			{
+				"buffer_size": 41746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-lopez-mateos.html",
+			"settings":
+			{
+				"buffer_size": 41749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-morelia.html",
+			"settings":
+			{
+				"buffer_size": 41736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-vallarta.html",
+			"settings":
+			{
+				"buffer_size": 41750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki_colima/api/index.html",
+			"settings":
+			{
+				"buffer_size": 22994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/sx4-sedan.html",
+			"settings":
+			{
+				"buffer_size": 190426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/sx4-crossover.html",
+			"settings":
+			{
+				"buffer_size": 135244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/swift.html",
+			"settings":
+			{
+				"buffer_size": 153757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/swift-sport.html",
+			"settings":
+			{
+				"buffer_size": 126570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/s-cross.html",
+			"settings":
+			{
+				"buffer_size": 177802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/promociones.html",
+			"settings":
+			{
+				"buffer_size": 30198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/mustache.html",
+			"settings":
+			{
+				"buffer_size": 22831,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/legales.html",
+			"settings":
+			{
+				"buffer_size": 23711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/kizashi.html",
+			"settings":
+			{
+				"buffer_size": 158555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
+			"settings":
+			{
+				"buffer_size": 33567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grand-vitara.html",
+			"settings":
+			{
+				"buffer_size": 166092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/contacto.html",
+			"settings":
+			{
+				"buffer_size": 35431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias.html",
+			"settings":
+			{
+				"buffer_size": 42540,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/ciaz.html",
+			"settings":
+			{
+				"buffer_size": 96493,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/catalogo.html",
+			"settings":
+			{
+				"buffer_size": 33650,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/aviso-privacidad.html",
+			"settings":
+			{
+				"buffer_size": 30124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/razones/index.html",
+			"settings":
+			{
+				"buffer_size": 30785,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grupo/index.html",
+			"settings":
+			{
+				"buffer_size": 23813,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/garantia-suzuki/index.html",
+			"settings":
+			{
+				"buffer_size": 40736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/index.html",
+			"settings":
+			{
+				"buffer_size": 42711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-colima.html",
+			"settings":
+			{
+				"buffer_size": 42706,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-lopez-mateos.html",
+			"settings":
+			{
+				"buffer_size": 42710,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-morelia.html",
+			"settings":
+			{
+				"buffer_size": 42227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-vallarta.html",
+			"settings":
+			{
+				"buffer_size": 42663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/api/index.html",
+			"settings":
+			{
+				"buffer_size": 23332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/financia.php",
+			"settings":
+			{
+				"buffer_size": 18352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-lopez-mateos.html",
+			"settings":
+			{
+				"buffer_size": 41961,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 287.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -762,15 +1575,11 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/suzuki-morelia",
-		"/Applications/MAMP/htdocs/suzuki-morelia/api",
-		"/Applications/MAMP/htdocs/suzuki-morelia/concesionarias",
-		"/Applications/MAMP/htdocs/suzuki-morelia/garantia-suzuki",
-		"/Applications/MAMP/htdocs/suzuki-morelia/grupo",
-		"/Applications/MAMP/htdocs/suzuki-morelia/razones"
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/suzuki-lopez-mateos/contacto.php",
 		"/Applications/MAMP/htdocs/land-rover/index.html",
 		"/Applications/MAMP/htdocs/land-rover/lib/scripts.js",
 		"/Applications/MAMP/htdocs/land-rover/vehiculos/land_rover_lr2.html",
@@ -897,12 +1706,11 @@
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/mustache.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/promociones.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/s-cross.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift-sport.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift.html"
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift-sport.html"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -942,6 +1750,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Col. Lomas de Circumbalación. Colima, Colima.<br/>",
 			"span",
 			"https://twitter.com/intent/tweet",
 			"RANGE ROVER",
@@ -1068,8 +1877,7 @@
 			"100%",
 			"HeroC",
 			"295-83457",
-			"img/slider/",
-			"L319_15_EXT_LOC06_01_295-147644_"
+			"img/slider/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1077,6 +1885,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Col. Lomas de Circunvalación. Colima, Colima.<br/>",
+			"Col. Lomas de Circunbalación. Colima, Colima.<br/>",
 			"Suzuki Autos Guadalajara",
 			"Suzuki Autos Colima",
 			"Suzuki Autos Morelia",
@@ -1113,7 +1923,7 @@
 	"groups":
 	[
 		{
-			"selected": 24,
+			"selected": 124,
 			"sheets":
 			[
 				{
@@ -1129,8 +1939,8 @@
 						"selection":
 						[
 							[
-								23182,
-								23182
+								19109,
+								19159
 							]
 						],
 						"settings":
@@ -1140,10 +1950,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6013.0,
+						"translation.y": 5463.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 24,
+					"stack_index": 125,
 					"type": "text"
 				},
 				{
@@ -1159,8 +1969,8 @@
 						"selection":
 						[
 							[
-								41938,
-								41938
+								37677,
+								37727
 							]
 						],
 						"settings":
@@ -1170,10 +1980,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10713.0,
+						"translation.y": 9895.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 124,
 					"type": "text"
 				},
 				{
@@ -1189,8 +1999,8 @@
 						"selection":
 						[
 							[
-								41934,
-								41934
+								37135,
+								37185
 							]
 						],
 						"settings":
@@ -1200,10 +2010,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10713.0,
+						"translation.y": 9735.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 123,
 					"type": "text"
 				},
 				{
@@ -1219,8 +2029,8 @@
 						"selection":
 						[
 							[
-								41937,
-								41937
+								37674,
+								37724
 							]
 						],
 						"settings":
@@ -1230,10 +2040,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10713.0,
+						"translation.y": 9895.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 122,
 					"type": "text"
 				},
 				{
@@ -1249,8 +2059,8 @@
 						"selection":
 						[
 							[
-								41924,
-								41924
+								37663,
+								37713
 							]
 						],
 						"settings":
@@ -1260,10 +2070,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10753.0,
+						"translation.y": 9935.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 121,
 					"type": "text"
 				},
 				{
@@ -1279,8 +2089,8 @@
 						"selection":
 						[
 							[
-								41938,
-								41938
+								37677,
+								37727
 							]
 						],
 						"settings":
@@ -1290,10 +2100,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10713.0,
+						"translation.y": 9895.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 120,
 					"type": "text"
 				},
 				{
@@ -1309,8 +2119,8 @@
 						"selection":
 						[
 							[
-								41356,
-								41356
+								35972,
+								36022
 							]
 						],
 						"settings":
@@ -1320,10 +2130,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 11653.0,
+						"translation.y": 10195.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 119,
 					"type": "text"
 				},
 				{
@@ -1339,8 +2149,8 @@
 						"selection":
 						[
 							[
-								23777,
-								23777
+								19643,
+								19693
 							]
 						],
 						"settings":
@@ -1350,10 +2160,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6053.0,
+						"translation.y": 5295.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 118,
 					"type": "text"
 				},
 				{
@@ -1369,8 +2179,8 @@
 						"selection":
 						[
 							[
-								30749,
-								30749
+								26638,
+								26688
 							]
 						],
 						"settings":
@@ -1380,10 +2190,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8793.0,
+						"translation.y": 8035.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 117,
 					"type": "text"
 				},
 				{
@@ -1399,8 +2209,8 @@
 						"selection":
 						[
 							[
-								30088,
-								30088
+								26087,
+								26137
 							]
 						],
 						"settings":
@@ -1410,10 +2220,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7133.0,
+						"translation.y": 6375.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 116,
 					"type": "text"
 				},
 				{
@@ -1429,8 +2239,8 @@
 						"selection":
 						[
 							[
-								33613,
-								33613
+								29398,
+								29448
 							]
 						],
 						"settings":
@@ -1440,10 +2250,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8873.0,
+						"translation.y": 8095.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 115,
 					"type": "text"
 				},
 				{
@@ -1459,8 +2269,8 @@
 						"selection":
 						[
 							[
-								96450,
-								96450
+								91197,
+								91247
 							]
 						],
 						"settings":
@@ -1470,10 +2280,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 25693.0,
+						"translation.y": 24335.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 114,
 					"type": "text"
 				},
 				{
@@ -1489,8 +2299,8 @@
 						"selection":
 						[
 							[
-								41767,
-								41767
+								37584,
+								37634
 							]
 						],
 						"settings":
@@ -1500,10 +2310,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10673.0,
+						"translation.y": 9896.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 113,
 					"type": "text"
 				},
 				{
@@ -1519,8 +2329,8 @@
 						"selection":
 						[
 							[
-								35372,
-								35372
+								31191,
+								31241
 							]
 						],
 						"settings":
@@ -1530,10 +2340,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8993.0,
+						"translation.y": 8195.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 112,
 					"type": "text"
 				},
 				{
@@ -1549,8 +2359,8 @@
 						"selection":
 						[
 							[
-								166062,
-								166062
+								161351,
+								161401
 							]
 						],
 						"settings":
@@ -1560,10 +2370,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 43033.0,
+						"translation.y": 41775.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 111,
 					"type": "text"
 				},
 				{
@@ -1579,8 +2389,8 @@
 						"selection":
 						[
 							[
-								33419,
-								33419
+								28947,
+								28997
 							]
 						],
 						"settings":
@@ -1590,10 +2400,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8673.0,
+						"translation.y": 7855.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 110,
 					"type": "text"
 				},
 				{
@@ -1609,8 +2419,8 @@
 						"selection":
 						[
 							[
-								158525,
-								158525
+								153814,
+								153864
 							]
 						],
 						"settings":
@@ -1620,10 +2430,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 41553.0,
+						"translation.y": 40275.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 109,
 					"type": "text"
 				},
 				{
@@ -1639,8 +2449,8 @@
 						"selection":
 						[
 							[
-								23675,
-								23675
+								19488,
+								19538
 							]
 						],
 						"settings":
@@ -1650,10 +2460,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 6153.0,
+						"translation.y": 5375.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 108,
 					"type": "text"
 				},
 				{
@@ -1669,8 +2479,8 @@
 						"selection":
 						[
 							[
-								22795,
-								22795
+								18697,
+								18747
 							]
 						],
 						"settings":
@@ -1680,10 +2490,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5933.0,
+						"translation.y": 5175.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 107,
 					"type": "text"
 				},
 				{
@@ -1699,8 +2509,8 @@
 						"selection":
 						[
 							[
-								30162,
-								30162
+								26073,
+								26123
 							]
 						],
 						"settings":
@@ -1710,10 +2520,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7933.0,
+						"translation.y": 7135.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 106,
 					"type": "text"
 				},
 				{
@@ -1729,8 +2539,8 @@
 						"selection":
 						[
 							[
-								177772,
-								177772
+								173061,
+								173111
 							]
 						],
 						"settings":
@@ -1740,10 +2550,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 46693.0,
+						"translation.y": 45515.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 105,
 					"type": "text"
 				},
 				{
@@ -1759,8 +2569,8 @@
 						"selection":
 						[
 							[
-								126540,
-								126540
+								121829,
+								121879
 							]
 						],
 						"settings":
@@ -1770,10 +2580,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 33453.0,
+						"translation.y": 32215.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 104,
 					"type": "text"
 				},
 				{
@@ -1789,8 +2599,8 @@
 						"selection":
 						[
 							[
-								153727,
-								153727
+								149016,
+								149066
 							]
 						],
 						"settings":
@@ -1800,10 +2610,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 40293.0,
+						"translation.y": 39175.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 103,
 					"type": "text"
 				},
 				{
@@ -1819,8 +2629,8 @@
 						"selection":
 						[
 							[
-								135827,
-								135827
+								130316,
+								130366
 							]
 						],
 						"settings":
@@ -1830,10 +2640,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 36073.0,
+						"translation.y": 34495.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 102,
 					"type": "text"
 				},
 				{
@@ -1849,8 +2659,8 @@
 						"selection":
 						[
 							[
-								191015,
-								191015
+								185504,
+								185554
 							]
 						],
 						"settings":
@@ -1860,10 +2670,3039 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 50233.0,
+						"translation.y": 48655.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 101,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/sx4-sedan.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191050,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184975,
+								185025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 100,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/sx4-crossover.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129787,
+								129837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 34335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 99,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/swift.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148509,
+								148559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 98,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/swift-sport.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121322,
+								121372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 97,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/s-cross.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177829,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172554,
+								172604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 96,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/promociones.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25567,
+								25617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 95,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/mustache.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18191,
+								18241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 94,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/legales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18986,
+								19036
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 93,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/kizashi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153307,
+								153357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 40115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 92,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28447,
+								28497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7695.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 91,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/grand-vitara.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160852,
+								160902
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 41635.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 90,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/contacto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30721,
+								30771
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 89,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37090,
+								37140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9755.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 88,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/ciaz.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91244,
+								91294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 87,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/catalogo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28896,
+								28946
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 86,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/aviso-privacidad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25589,
+								25639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 85,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/razones/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26136,
+								26186
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7875.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 84,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/grupo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19141,
+								19191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 83,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/garantia-suzuki/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36008,
+								36058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 82,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37175,
+								37225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 81,
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-colima.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37171,
+								37221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 80,
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-lopez-mateos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37172,
+								37222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 79,
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-morelia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37161,
+								37211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 78,
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/concesionarias/suzuki-vallarta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37175,
+								37225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 77,
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "/Applications/MAMP/htdocs/suzuki-lopez-mateos/api/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18610,
+								18660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 76,
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/sx4-sedan.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 191024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184953,
+								185003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 75,
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/sx4-crossover.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129776,
+								129826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 34335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 74,
+					"type": "text"
+				},
+				{
+					"buffer": 52,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/swift.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148476,
+								148526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 73,
+					"type": "text"
+				},
+				{
+					"buffer": 53,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/swift-sport.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121289,
+								121339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 72,
+					"type": "text"
+				},
+				{
+					"buffer": 54,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/s-cross.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172521,
+								172571
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 71,
+					"type": "text"
+				},
+				{
+					"buffer": 55,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/promociones.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25537,
+								25587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 70,
+					"type": "text"
+				},
+				{
+					"buffer": 56,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/mustache.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18161,
+								18211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 69,
+					"type": "text"
+				},
+				{
+					"buffer": 57,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/legales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18952,
+								19002
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 68,
+					"type": "text"
+				},
+				{
+					"buffer": 58,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/kizashi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153274,
+								153324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 40115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 67,
+					"type": "text"
+				},
+				{
+					"buffer": 59,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28409,
+								28459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 66,
+					"type": "text"
+				},
+				{
+					"buffer": 60,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/grand-vitara.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160811,
+								160861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 41615.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 65,
+					"type": "text"
+				},
+				{
+					"buffer": 61,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/contacto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30675,
+								30725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8035.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 64,
+					"type": "text"
+				},
+				{
+					"buffer": 62,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37048,
+								37098
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 63,
+					"type": "text"
+				},
+				{
+					"buffer": 63,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/ciaz.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91205,
+								91255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 62,
+					"type": "text"
+				},
+				{
+					"buffer": 64,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/catalogo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28862,
+								28912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 61,
+					"type": "text"
+				},
+				{
+					"buffer": 65,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/aviso-privacidad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25551,
+								25601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 60,
+					"type": "text"
+				},
+				{
+					"buffer": 66,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/razones/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26102,
+								26152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7875.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 59,
+					"type": "text"
+				},
+				{
+					"buffer": 67,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/grupo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19107,
+								19157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 58,
+					"type": "text"
+				},
+				{
+					"buffer": 68,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/garantia-suzuki/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35974,
+								36024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 57,
+					"type": "text"
+				},
+				{
+					"buffer": 69,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37141,
+								37191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 56,
+					"type": "text"
+				},
+				{
+					"buffer": 70,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-colima.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37137,
+								37187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 54,
+					"type": "text"
+				},
+				{
+					"buffer": 71,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-morelia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37127,
+								37177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 53,
+					"type": "text"
+				},
+				{
+					"buffer": 72,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-vallarta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37141,
+								37191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 52,
+					"type": "text"
+				},
+				{
+					"buffer": 73,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/api/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18573,
+								18623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 51,
+					"type": "text"
+				},
+				{
+					"buffer": 74,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/sx4-sedan.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183906,
+								183956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 75,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/sx4-crossover.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128718,
+								128768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 33975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				},
+				{
+					"buffer": 76,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/swift.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147231,
+								147281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 38655.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				},
+				{
+					"buffer": 77,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/swift-sport.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120044,
+								120094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 31695.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 78,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/s-cross.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171276,
+								171326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 44995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 79,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/promociones.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24299,
+								24349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6615.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 80,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/mustache.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16923,
+								16973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4655.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 81,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/legales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17714,
+								17764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 82,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/kizashi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152032,
+								152082
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39755.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 83,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27169,
+								27219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 84,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/grand-vitara.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159566,
+								159616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 41255.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 85,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/contacto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29178,
+								29228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7635.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 86,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35810,
+								35860
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 87,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/ciaz.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90992,
+								91042
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24295.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 88,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/catalogo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27624,
+								27674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7575.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 89,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/aviso-privacidad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24313,
+								24363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 90,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/razones/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24864,
+								24914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7515.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 91,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/grupo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17869,
+								17919
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4775.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 92,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/garantia-suzuki/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34736,
+								34786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9835.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 93,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35902,
+								35952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 94,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-colima.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35899,
+								35949
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 95,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-lopez-mateos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35900,
+								35950
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 96,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-morelia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35889,
+								35939
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9415.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 97,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-vallarta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35903,
+								35953
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9375.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 98,
+					"file": "/Applications/MAMP/htdocs/suzuki_colima/api/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17335,
+								17385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4755.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 99,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/sx4-sedan.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185152,
+								185202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 48495.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 100,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/sx4-crossover.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129970,
+								130020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 34335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 101,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/swift.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148483,
+								148533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 102,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/swift-sport.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121296,
+								121346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32055.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 103,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/s-cross.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172528,
+								172578
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 104,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/promociones.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25546,
+								25596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 105,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/mustache.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18170,
+								18220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 106,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/legales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18961,
+								19011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 107,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/kizashi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153281,
+								153331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 40115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 108,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28532,
+								28582
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 109,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grand-vitara.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160818,
+								160868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 41615.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 110,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/contacto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30687,
+								30737
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8035.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 111,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37794,
+								37844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 112,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/ciaz.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91219,
+								91269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 24335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 113,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/catalogo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28872,
+								28922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 114,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/aviso-privacidad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25560,
+								25610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 115,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/razones/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26111,
+								26161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7875.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 116,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grupo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19116,
+								19166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 117,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/garantia-suzuki/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36127,
+								36177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10215.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 118,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37887,
+								37937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 119,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-colima.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37882,
+								37932
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 120,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-lopez-mateos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42710,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37884,
+								37934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 121,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-morelia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37403,
+								37453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9815.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 122,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-vallarta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37839,
+								37889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9895.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 123,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/api/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18729,
+								18779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 124,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/financia.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 18352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10526,
+								9648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 99.0,
+						"translation.y": 3793.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 125,
+					"file": "/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias/suzuki-lopez-mateos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37138,
+								37188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9735.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 55,
 					"type": "text"
 				}
 			]
@@ -1904,6 +5743,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "suzuki-morelia.sublime-project",
 	"replace":
 	{
@@ -1913,6 +5753,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1925,11 +5766,12 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/suzuki-morelia/suzuki-morelia.sublime-project"
+				"/Applications/MAMP/htdocs/seminuevos/seminuevos.sublime-project"
 			],
 			[
 				"dkh",
@@ -1949,6 +5791,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],

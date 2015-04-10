@@ -521,9 +521,14 @@
 	[
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 287.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -562,6 +567,30 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/suzuki_colima/sx4-sedan.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/sx4-crossover.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/swift.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/swift-sport.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/s-cross.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/promociones.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/mustache.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/legales.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/kizashi.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/index.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/grand-vitara.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/concesionarias.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/ciaz.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/catalogo.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/aviso-privacidad.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/razones/index.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/grupo/index.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/garantia-suzuki/index.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-vallarta.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-morelia.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-lopez-mateos.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/concesionarias/suzuki-colima.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/concesionarias/index.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/api/index.html",
 		"/Applications/MAMP/htdocs/land-rover/index.html",
 		"/Applications/MAMP/htdocs/land-rover/lib/scripts.js",
 		"/Applications/MAMP/htdocs/land-rover/vehiculos/land_rover_lr2.html",
@@ -665,31 +694,7 @@
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/legales.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/mustache.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/promociones.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/s-cross.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/swift-sport.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/swift.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/api/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-colima.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-lopez-mateos.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-morelia.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-vallarta.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/garantia-suzuki/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/grupo/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/razones/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/aviso-privacidad.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/catalogo.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/contacto.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/grand-vitara.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/kizashi.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/legales.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/mustache.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/promociones.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/s-cross.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift-sport.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift.html"
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/s-cross.html"
 	],
 	"find":
 	{
@@ -944,6 +949,7 @@
 	{
 		"height": 0.0
 	},
+	"pinned_build_system": "",
 	"project": "suzuli-morelia.sublime-project",
 	"replace":
 	{
@@ -953,6 +959,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -965,11 +972,12 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/suzuki-morelia/suzuki-morelia.sublime-project"
+				"/Applications/MAMP/htdocs/suzuki-morelia/suzuli-morelia.sublime-workspace"
 			],
 			[
 				"dkh",
@@ -989,6 +997,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],

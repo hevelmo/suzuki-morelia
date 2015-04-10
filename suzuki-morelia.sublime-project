@@ -2,8 +2,19 @@
 	"folders":
 	[
 		{
-			"follow_symlinks": true,
 			"path": "."
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/suzuki-lopez-mateos"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/suzuki-vallarta"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/suzuki_colima"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl"
 		}
 	]
 }
